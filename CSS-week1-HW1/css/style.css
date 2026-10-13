@@ -21,6 +21,12 @@ header {
 nav {
     background-color: #dbeafe;
     padding: 10px;
+    display: inline-block;
+    width: 80%;
+}
+
+nav img {
+    width: 10%;
 }
 
 /* Main content */
@@ -42,10 +48,12 @@ footer a {
 }
 
 /* List items */
+/*
 li {
     display: inline-block;
     width: 120px;
 }
+*/
 
 /* Main heading */
 h1 {
